@@ -1,0 +1,2 @@
+# Trading
+Simple Trading Analysis
